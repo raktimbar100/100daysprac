@@ -1,4 +1,4 @@
-<img src="uploader.png>
+<img src="https://user-images.githubusercontent.com/91616950/177517203-4b2d36b5-7be4-4c82-9e81-4162af5d69aa.png">
 <hr/>
 Positive or Negative number: C <br/>
 Even or Odd number: C <br/>
@@ -27,5 +27,6 @@ Perfect Square : C <br/>
 Automorphic number : C <br/>
 Harshad number : C <br/>
 Abundant number : C<br/>
-Friendly pair : C<br/>![uploader](https://user-images.githubusercontent.com/91616950/177517203-4b2d36b5-7be4-4c82-9e81-4162af5d69aa.png)
-![uploader](https://user-images.githubusercontent.com/91616950/177517219-e9525db7-7213-4249-b6ae-fa3032deb987.png)
+Friendly pair : C<br/>
+![uploader](https://user-images.githubusercontent.com/91616950/177517203-4b2d36b5-7be4-4c82-9e81-4162af5d69aa.png)
+
