@@ -28,5 +28,5 @@ Automorphic number : C <br/>
 Harshad number : C <br/>
 Abundant number : C<br/>
 Friendly pair : C<br/>
-![uploader](https://user-images.githubusercontent.com/91616950/177517203-4b2d36b5-7be4-4c82-9e81-4162af5d69aa.png)
+
 
