@@ -1,4 +1,4 @@
-<img style="height:390px;width:100px;" src="https://user-images.githubusercontent.com/91616950/177517203-4b2d36b5-7be4-4c82-9e81-4162af5d69aa.png">
+<img style="height:390px;width:290px;" src="https://user-images.githubusercontent.com/91616950/177517203-4b2d36b5-7be4-4c82-9e81-4162af5d69aa.png">
 <hr/>
 Positive or Negative number: C <br/>
 Even or Odd number: C <br/>
